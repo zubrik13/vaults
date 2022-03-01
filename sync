@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ZK_PATH=
+ZK_PATH="/Users/zubrik/projects/vaults"
 
 cd $ZK_PATH
 
