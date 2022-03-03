@@ -4,3 +4,5 @@
 understand more, doing new things become easier and faster
 
 Current progress [[programming stats]]
+
+Hard work doesn't always bring happy feeling, especially when you [[exhausted]] 
